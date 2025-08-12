@@ -1,4 +1,4 @@
-package com.wrteam.eschool.teacher
+package eschoolopal.new.com
 
 import io.flutter.embedding.android.FlutterActivity
 

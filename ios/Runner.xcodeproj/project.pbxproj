@@ -527,7 +527,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 3.3.3;
-				PRODUCT_BUNDLE_IDENTIFIER = com.wrteam.eschool.teacher;
+				PRODUCT_BUNDLE_IDENTIFIER = eschoolopal.new.com;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -566,7 +566,7 @@
 				MARKETING_VERSION = 1.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.wrteam.eschool.teacher.ImageNotification;
+				PRODUCT_BUNDLE_IDENTIFIER = eschoolopal.new.com.ImageNotification;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -600,7 +600,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.wrteam.eschool.teacher.ImageNotification;
+				PRODUCT_BUNDLE_IDENTIFIER = eschoolopal.new.com.ImageNotification;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
@@ -635,7 +635,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.wrteam.eschool.teacher.ImageNotification;
+				PRODUCT_BUNDLE_IDENTIFIER = eschoolopal.new.com.ImageNotification;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
@@ -774,7 +774,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 3.3.3;
-				PRODUCT_BUNDLE_IDENTIFIER = com.wrteam.eschool.teacher;
+				PRODUCT_BUNDLE_IDENTIFIER = eschoolopal.new.com;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -810,7 +810,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 3.3.3;
-				PRODUCT_BUNDLE_IDENTIFIER = com.wrteam.eschool.teacher;
+				PRODUCT_BUNDLE_IDENTIFIER = eschoolopal.new.com;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
